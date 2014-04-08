@@ -1,0 +1,14 @@
+#b {
+	padding:0;
+	width:80px;
+}
+li {
+	border:1px solid #000;
+	text-indent:-9999px;
+	list-style-type:none;
+	display:inline-block;
+	width:20px;
+	height:20px;
+	text-align:center;
+	line-height:20px;
+}
